@@ -28,7 +28,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run python script form GitHub repo
         run: |
-          ls
+          C:\Users\ORTG\AppData\Local\Programs\Python\Python310\python.exe basic_script.py
 
       - name: Run python script form PC
         run: |
