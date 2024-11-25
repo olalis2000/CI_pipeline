@@ -32,4 +32,4 @@ jobs:
 
       - name: Run python script form PC
         run: |
-          python C:\Users\ORTG\Desktop\PythonScripts\basic_script.py
+          C:\Users\ORTG\AppData\Local\Programs\Python\Python310\python.exe C:\Users\ORTG\Desktop\PythonScripts\basic_script.py
